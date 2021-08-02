@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\bin\Debug\netcoreapp3.1\19-CSharpMethodsParamters.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\19-CSharpMethodsParamters\obj\Debug\netcoreapp3.1\19-CSharpMethodsParamters.genruntimeconfig.cache

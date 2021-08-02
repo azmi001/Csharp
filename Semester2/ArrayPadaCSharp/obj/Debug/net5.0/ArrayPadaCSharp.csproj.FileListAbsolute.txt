@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ref\ArrayPadaCSharp.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\bin\Debug\net5.0\ArrayPadaCSharp.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ref\ArrayPadaCSharp.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\ArrayPadaCSharp\obj\Debug\net5.0\ArrayPadaCSharp.genruntimeconfig.cache

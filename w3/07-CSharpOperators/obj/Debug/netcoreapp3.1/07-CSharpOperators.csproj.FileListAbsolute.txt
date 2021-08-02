@@ -1,0 +1,26 @@
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.exe
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.dll
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.pdb
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.dll
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.pdb
+C:\Users\Azmi Munif Hartono\Documents\Data Kuliah\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.genruntimeconfig.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\bin\Debug\netcoreapp3.1\07-CSharpOperators.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\07-CSharpOperators\obj\Debug\netcoreapp3.1\07-CSharpOperators.genruntimeconfig.cache

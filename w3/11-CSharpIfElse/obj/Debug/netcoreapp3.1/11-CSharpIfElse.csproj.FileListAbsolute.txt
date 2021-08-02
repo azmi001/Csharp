@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\bin\Debug\netcoreapp3.1\11-CSharpIfElse.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\11-CSharpIfElse\obj\Debug\netcoreapp3.1\11-CSharpIfElse.genruntimeconfig.cache

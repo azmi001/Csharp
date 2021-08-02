@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\ref\perulanganwhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\bin\Debug\net5.0\perulanganwhile.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\ref\perulanganwhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulanganwhile\obj\Debug\net5.0\perulanganwhile.genruntimeconfig.cache

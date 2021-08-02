@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\ref\35-CSharpFiles.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\bin\Debug\net5.0\35-CSharpFiles.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\ref\35-CSharpFiles.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\35-CSharpFiles\obj\Debug\net5.0\35-CSharpFiles.genruntimeconfig.cache

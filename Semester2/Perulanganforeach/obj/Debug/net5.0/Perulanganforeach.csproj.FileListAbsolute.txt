@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\ref\Perulanganforeach.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\bin\Debug\net5.0\Perulanganforeach.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\ref\Perulanganforeach.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\Perulanganforeach\obj\Debug\net5.0\Perulanganforeach.genruntimeconfig.cache

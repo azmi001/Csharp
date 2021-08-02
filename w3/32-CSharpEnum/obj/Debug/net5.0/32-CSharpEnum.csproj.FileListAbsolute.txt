@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\ref\32-CSharpEnum.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\bin\Debug\net5.0\32-CSharpEnum.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\ref\32-CSharpEnum.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\32-CSharpEnum\obj\Debug\net5.0\32-CSharpEnum.genruntimeconfig.cache

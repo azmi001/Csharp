@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\bin\Debug\netcoreapp3.1\14-CSharpForLoop.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\14-CSharpForLoop\obj\Debug\netcoreapp3.1\14-CSharpForLoop.genruntimeconfig.cache

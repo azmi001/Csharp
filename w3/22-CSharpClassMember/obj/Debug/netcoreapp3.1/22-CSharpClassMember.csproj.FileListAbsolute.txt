@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\bin\Debug\netcoreapp3.1\22-CSharpClassMember.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\22-CSharpClassMember\obj\Debug\netcoreapp3.1\22-CSharpClassMember.genruntimeconfig.cache

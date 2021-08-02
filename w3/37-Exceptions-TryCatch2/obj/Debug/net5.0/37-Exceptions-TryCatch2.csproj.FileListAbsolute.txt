@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\ref\37-Exceptions-TryCatch2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\bin\Debug\net5.0\37-Exceptions-TryCatch2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\ref\37-Exceptions-TryCatch2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\37-Exceptions-TryCatch2\obj\Debug\net5.0\37-Exceptions-TryCatch2.genruntimeconfig.cache

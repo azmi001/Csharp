@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\ref\kondisiswitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\bin\Debug\net5.0\kondisiswitch.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\ref\kondisiswitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiswitch\obj\Debug\net5.0\kondisiswitch.genruntimeconfig.cache

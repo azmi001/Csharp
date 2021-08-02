@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\ref\33-CSharpEnum2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\bin\Debug\net5.0\33-CSharpEnum2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\ref\33-CSharpEnum2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\33-CSharpEnum2\obj\Debug\net5.0\33-CSharpEnum2.genruntimeconfig.cache

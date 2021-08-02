@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\ref\30-CSharpInterface.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\bin\Debug\net5.0\30-CSharpInterface.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\ref\30-CSharpInterface.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\30-CSharpInterface\obj\Debug\net5.0\30-CSharpInterface.genruntimeconfig.cache

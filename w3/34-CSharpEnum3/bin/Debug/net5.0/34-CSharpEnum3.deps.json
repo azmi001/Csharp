@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "34-CSharpEnum3/1.0.0": {
+        "runtime": {
+          "34-CSharpEnum3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34-CSharpEnum3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

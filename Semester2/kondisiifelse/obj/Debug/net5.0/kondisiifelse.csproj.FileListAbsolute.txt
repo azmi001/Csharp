@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\ref\kondisiifelse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\bin\Debug\net5.0\kondisiifelse.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\ref\kondisiifelse.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\kondisiifelse\obj\Debug\net5.0\kondisiifelse.genruntimeconfig.cache

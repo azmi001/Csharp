@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\bin\Debug\netcoreapp3.1\24-CSharpAccesModifiers.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\24-CSharpAccesModifiers\obj\Debug\netcoreapp3.1\24-CSharpAccesModifiers.genruntimeconfig.cache

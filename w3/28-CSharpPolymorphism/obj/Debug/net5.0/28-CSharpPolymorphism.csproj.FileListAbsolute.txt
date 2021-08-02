@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\ref\28-CSharpPolymorphism.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\bin\Debug\net5.0\28-CSharpPolymorphism.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\ref\28-CSharpPolymorphism.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\28-CSharpPolymorphism\obj\Debug\net5.0\28-CSharpPolymorphism.genruntimeconfig.cache

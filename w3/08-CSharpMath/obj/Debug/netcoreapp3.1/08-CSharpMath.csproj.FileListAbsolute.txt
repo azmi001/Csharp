@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\bin\Debug\netcoreapp3.1\08-CSharpMath.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\08-CSharpMath\obj\Debug\netcoreapp3.1\08-CSharpMath.genruntimeconfig.cache

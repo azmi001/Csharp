@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\bin\Debug\netcoreapp3.1\15-CSharpBreakCountinue.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\15-CSharpBreakCountinue\obj\Debug\netcoreapp3.1\15-CSharpBreakCountinue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\bin\Debug\netcoreapp3.1\26-CSharpProperties2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\26-CSharpProperties2\obj\Debug\netcoreapp3.1\26-CSharpProperties2.genruntimeconfig.cache

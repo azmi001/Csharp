@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\ref\29-CSharpAbstraction.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\bin\Debug\net5.0\29-CSharpAbstraction.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\ref\29-CSharpAbstraction.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\29-CSharpAbstraction\obj\Debug\net5.0\29-CSharpAbstraction.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\bin\Debug\netcoreapp3.1\17-CSharpArrays2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\17-CSharpArrays2\obj\Debug\netcoreapp3.1\17-CSharpArrays2.genruntimeconfig.cache

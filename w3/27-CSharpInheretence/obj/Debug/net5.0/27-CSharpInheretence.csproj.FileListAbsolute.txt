@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\ref\27-CSharpInheretence.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\bin\Debug\net5.0\27-CSharpInheretence.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\ref\27-CSharpInheretence.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\27-CSharpInheretence\obj\Debug\net5.0\27-CSharpInheretence.genruntimeconfig.cache

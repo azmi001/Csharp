@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\bin\Debug\netcoreapp3.1\12-CSharpSwitch.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\12-CSharpSwitch\obj\Debug\netcoreapp3.1\12-CSharpSwitch.genruntimeconfig.cache

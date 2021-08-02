@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\bin\Debug\netcoreapp3.1\13-CSharpWhileLoop.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\13-CSharpWhileLoop\obj\Debug\netcoreapp3.1\13-CSharpWhileLoop.genruntimeconfig.cache

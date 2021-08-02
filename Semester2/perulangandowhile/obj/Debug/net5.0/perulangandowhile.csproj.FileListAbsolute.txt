@@ -1,0 +1,16 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\ref\perulangandowhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\bin\Debug\net5.0\perulangandowhile.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\ref\perulangandowhile.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\PakNurman\perulangandowhile\obj\Debug\net5.0\perulangandowhile.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.exe
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.deps.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.runtimeconfig.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.runtimeconfig.dev.json
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\bin\Debug\netcoreapp3.1\18-CSharpMethods.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.csprojAssemblyReference.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.AssemblyInfoInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.AssemblyInfo.cs
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.csproj.CoreCompileInputs.cache
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.dll
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.pdb
+C:\Users\Azmi Munif Hartono\Documents\Latihan_Pemograman\CsharpLatihan\w3\18-CSharpMethods\obj\Debug\netcoreapp3.1\18-CSharpMethods.genruntimeconfig.cache
